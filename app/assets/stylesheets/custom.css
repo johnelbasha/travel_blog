@@ -1,0 +1,41 @@
+.page-title {
+  padding-top: 125px;
+  padding-bottom: 125px;
+  font-size: 55px;
+  letter-spacing: 2px;
+}
+
+#main {
+  max-width: 1000px;
+}
+
+.photo_avatar {
+  max-width: 50%;
+  border-radius: 20px;
+  filter: grayscale(1);
+
+}
+
+#main > div > div > div.col-3 > p > span {
+  font-weight: bold;
+}
+
+.post-title {
+  text-align: justify;
+}
+
+.post-excerpt {
+  text-align: justify;
+  opacity: 90%;
+}
+
+.post-meta {
+  text-align: left;
+  opacity: 50%;
+}
+
+.post {
+  border-bottom: grey 1px solid;
+  padding-bottom: 20px;
+  padding-top: 10px;
+}
